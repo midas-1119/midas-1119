@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <p align="center">
     <h1 align='center'>King✩Midas</h1>
 </p>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=CASINO%2CDEVELOPER" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=CASINO+DEVELOPER" alt="Typing SVG" /></a>
 
 ## *Skill Set*
 
