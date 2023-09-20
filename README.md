@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <p align="center">
     <h1 align='center'>King✩Midas</h1>
 </p>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=I am genuinely passionate about web development and I am dedicated to delivering high-quality work. I believe in the power of technology to transform businesses, and I am committed to helping you succeed.
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=I am genuinely passionate about web development and I am dedicated to delivering high-quality work. I believe in the power of technology to transform businesses, and I am committed to helping you succeed." alt="Typing SVG" /></a>
 
 Throughout the development process, I will provide regular updates and milestones to ensure transparency and keep you informed.
 
